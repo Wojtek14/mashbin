@@ -276,4 +276,4 @@ Create `tea.yaml` for your GitHub repos.
 
 ```sh
 $ mash tea register
-```
+```/
